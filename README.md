@@ -1,4 +1,5 @@
 # starbucks-landing-page-clone
+
 Mobile responsive front page of the Starbucks landing page. Built with HTML, CSS and JavaScript.
 
 Check it out: https://dmitryvelichko.github.io/starbucks-landing-page-clone/
